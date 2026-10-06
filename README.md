@@ -25,19 +25,19 @@
       <p><strong>Public · WIP</strong></p>
     </td>
     <td width="50%" valign="top">
-      <img src="assets/grace-barbarica-og.png" alt="Grace Barbarica — soon" width="100%">
+      <img src="assets/grace-barbarica-og.jpg" alt="Grace Barbarica — Raise the compass and tear down the empire" width="100%">
       <br>
       <h3>Grace Barbarica</h3>
-      <p>Soon to come.</p>
+      <p><em>Raise the compass and tear down the empire.</em></p>
       <p><strong>Private · soon</strong></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/relando-og.png" alt="Relando — soon" width="100%">
+      <img src="assets/relando-og.jpg" alt="Relando — Desire the state." width="100%">
       <br>
       <h3>Relando</h3>
-      <p>Soon to come.</p>
+      <p><em>Desire the state.</em></p>
       <p><strong>Private · soon</strong></p>
     </td>
     <td width="50%" valign="top">
